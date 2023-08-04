@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f6/e3/36/f6e3366642e97d292d8df693642693a3.gif">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/hello-there-private-from-penguins-of-madagascar-hi-wave-hey-there-gif-16043627)">
 - 👋 Hi, I’m @dhirajkumbhar28
 - 👀 I’m interested in ...test my skils
 - 🌱 I’m currently learning ...started cs journey again
